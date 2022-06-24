@@ -1,5 +1,5 @@
 ## Hi
-This is DackJempseys profile. Take a look around and let me know if you have any questions. 
+This is DackJempsey's profile. Take a look around and let me know if you have any questions. 
 
 ### Currentl Learning
 Working on sharpening my Go programing skills. Be sure to check in for more repos.
