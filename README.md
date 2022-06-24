@@ -5,7 +5,7 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 Working on sharpening my Go programing skills. Be sure to check in for more repos.
 
 ### Current Books
-[Black Hat Go](https://nostarch.com/blackhatgo)
+[Black Hat Go](https://nostarch.com/blackhatgo) \
 [Endurance](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
 
 <!--
