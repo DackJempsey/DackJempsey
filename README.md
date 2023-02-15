@@ -3,7 +3,7 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 
 ### Currently Learning
 Working on sharpening my Go programing skills. Be sure to check in for more repos. \
-If you are interested in working with me on the [python sandbox](https://twosixtech.com/hijacking-the-ast-to-safely-handle-untrusted-python/) you can send me and email and I will add you to the private repo.
+If you are interested in working with me on the [python sandbox](https://twosixtech.com/hijacking-the-ast-to-safely-handle-untrusted-python/) you can send me an email and I will add you to the private repo.
 
 
 ### Current Reading list
