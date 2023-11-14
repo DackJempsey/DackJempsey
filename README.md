@@ -12,9 +12,9 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 
 ### Currently getting my M.Eng ECE at Cornell Tech in NYC:
 #### Fall Courses:
-Applied Digital Signal Processing and Communications \\
-ASIC Design \\
-Applied Machine Learning \\
+- Applied Digital Signal Processing and Communications
+- ASIC Design
+- Applied Machine Learning
 
 
 <!--
