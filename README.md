@@ -10,7 +10,11 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 - 📖 [Endurance](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881) 
 - 📖 [Quantum Computing and Quantum Information](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?crid=3K2FR2P6HUCV2&keywords=nielsen+quantum+computing&qid=1676434522&s=books&sprefix=nielson+quantum+computing%2Cstripbooks%2C65&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc) 
 
-### Currently getting my M.Eng ECE at Cornell Tech in NYC
+### Currently getting my M.Eng ECE at Cornell Tech in NYC:
+#### Fall Courses:
+Applied Digital Signal Processing and Communications\\
+ASIC Design\\
+Applied Machine Learning\\
 
 
 <!--
