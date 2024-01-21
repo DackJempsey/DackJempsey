@@ -1,4 +1,4 @@
-## Hi
+## Welcome!
 This is DackJempsey's profile. Take a look around and let me know if you have any questions :smile:
 
 ### Currently Learning/Projects
