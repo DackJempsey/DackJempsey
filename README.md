@@ -20,7 +20,7 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 - Neuromorphic Computing (PHD)
 - Designing Inteligent Autonomous Systems
 - Machine Learning Hardware Systems
-- Sustainable Compuitng (PHD)
+- Sustainable Computing (PHD)
 
 
 <!--
