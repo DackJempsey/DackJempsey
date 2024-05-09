@@ -18,7 +18,7 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 - Applied Machine Learning
 
 #### Spring Courses:
-- Neuromorphic Computing (PHD)
+- Neuromorphic Computing - Chip Design (PHD)
 - Machine Learning Hardware Systems
 - Sustainable Computing (PHD)
 
