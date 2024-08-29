@@ -3,7 +3,6 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 
 ### Currently Learning/Projects
 - 💻 Checkout my blog post: [python sandbox](https://twosixtech.com/hijacking-the-ast-to-safely-handle-untrusted-python/) 
-- 💻 Personal Blog at dackjempsey.com currently it redirects to here.
 
 
 ### Current Reading list
@@ -11,7 +10,7 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 - 📖[Surely Your Joking Mr.Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 - 📖[Efficient Processing of Deep Neural Networks](https://link.springer.com/book/10.1007/978-3-031-01766-7)
 
-### Currently getting my M.Eng ECE at Cornell Tech in NYC:
+### Graduated M.Eng ECE at Cornell Tech in NYC:
 #### Fall Courses:
 - Applied Digital Signal Processing and Communications
 - ASIC Design
