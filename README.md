@@ -1,8 +1,8 @@
 ## Welcome!
 This is DackJempsey's profile. Take a look around and let me know if you have any questions :smile:
 
-### Currently Learning/Projects
-- 💻 Checkout my blog post: [python sandbox](https://twosixtech.com/hijacking-the-ast-to-safely-handle-untrusted-python/) 
+### Currently Projects
+- 💻 Checkout my [blog](https://quantumdempsey.wordpress.com/) 
 
 
 ### Current Reading list
