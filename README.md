@@ -2,7 +2,7 @@
 This is DackJempsey's profile. Take a look around and let me know if you have any questions :smile:
 
 ### Currently Projects
-- 💻 Checkout my [blog](https://quantumdempsey.wordpress.com/) 
+- 💻 Checkout my blog [Quantum Dempsey](https://quantumdempsey.wordpress.com/) 
 
 
 ### Current Reading list
