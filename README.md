@@ -10,7 +10,7 @@ This is DackJempsey's profile. Take a look around and let me know if you have an
 - 📖[Surely Your Joking Mr.Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 - 📖[Efficient Processing of Deep Neural Networks](https://link.springer.com/book/10.1007/978-3-031-01766-7)
 
-### Graduated M.Eng ECE at Cornell Tech in NYC:
+### Graduate M.Eng ECE at Cornell Tech in NYC:
 #### Fall Courses:
 - Applied Digital Signal Processing and Communications
 - ASIC Design
